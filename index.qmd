@@ -1,11 +1,32 @@
 ---
-title: "jesskhiggins.github.io"
+title: "Jessica K. Higgins Ph.D."
+image: images/Jessicafullbody.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jkhiggins/
+    - text: Twitter
+      href: https://twitter.com/JessicaKHiggins/
+    - text: GitHub
+      href: https://github.com/JessKHiggins/
+    - text: Email
+      href: mailto:jessicakhiggins\@gmail.com
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm so excited to share a little bit about my background and the things are are important to me.
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+### Education
+
+*Ph.D. in Biology* 2014 University of North Carolina at Chapel Hill, Chapel Hill, NC
+
+
+*B.S. in Environmental Science* 2005 University of Notre Dame, Notre Dame, IN 
+
+
+------------------------------------------------------------------------
