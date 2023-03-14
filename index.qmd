@@ -5,14 +5,18 @@ about:
   template: trestles
   image-shape: rounded
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/jkhiggins/
-    - text: Twitter
+    - icon: twitter
+      text: Twitter
       href: https://twitter.com/JessicaKHiggins/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/JessKHiggins/
-    - text: Email
-      href: mailto:jessicakhiggins\@gmail.com
+    - icon: envelope
+      text: Email
+      href: mailto:jessicakhiggins@gmail.com 
 ---
 
 ## Welcome!
@@ -25,8 +29,26 @@ I'm so excited to share a little bit about my background and the things are are 
 
 *Ph.D. in Biology* 2014 University of North Carolina at Chapel Hill, Chapel Hill, NC
 
-
-*B.S. in Environmental Science* 2005 University of Notre Dame, Notre Dame, IN 
-
+*B.S. in Environmental Science* 2005 University of Notre Dame, Notre Dame, IN
 
 ------------------------------------------------------------------------
+
+### Work Experience
+
+*Director, Analytics Engineering* at Atorus Research - 2021-present
+
+*Director, Programming* at Nuventra Pharma Sciences - 2016-2021
+
+*Postdoctoral Researcher* at Univeristy of North Carolina at Chapel Hill - 2016
+
+------------------------------------------------------------------------
+
+### Volunteer Work
+
+I serve on the board of the [James Keppel Foundation](https://www.jameskeppelfoundation.org/), a foundation that supports educational opportunities in the US and abroad in honor of my brother James Keppel.
+
+I serve on the board of the [Scottish Cultural Organization of the Triangle](https://scot.us/) (SCOT) a non-profit dedicated to sharing and promoting knowledge of and appreciation for Scottish culture and history with people in the Triangle and Central NC.
+
+I am passionate about supporting and Girl Scouts and am a proud leader of Troop 3890 in Chapel Hill, NC.
+
+![at outdoor camp training at Camp Mary Atkinson](images/jessicagirlscout.jpg){width="200"}

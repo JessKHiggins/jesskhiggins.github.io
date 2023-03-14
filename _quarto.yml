@@ -13,8 +13,8 @@ website:
 format:
   html:
     theme: 
-      light: pulse
       dark: solar
+      light: pulse
     css: styles.css
     toc: true
 
