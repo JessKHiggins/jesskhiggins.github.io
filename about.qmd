@@ -1,9 +1,35 @@
----
-title: "About"
----
+### Education
 
-About this site
+*Ph.D. in Biology* 2014 University of North Carolina at Chapel Hill, Chapel Hill, NC
 
-```{r}
-1 + 1
-```
+*B.S. in Environmental Science* 2005 University of Notre Dame, Notre Dame, IN
+
+------------------------------------------------------------------------
+
+### Work Experience
+
+*Director, Analytics Engineering* at Atorus Research - 2021-present
+
+*Director, Programming* at Nuventra Pharma Sciences - 2016-2021
+
+*Postdoctoral Researcher* at University of North Carolina at Chapel Hill - 2016
+
+------------------------------------------------------------------------
+
+### Volunteer Work
+
+I serve on the board of the [James Keppel Foundation](https://www.jameskeppelfoundation.org/), a foundation that supports educational opportunities in the US and abroad in honor of my brother James Keppel.
+
+I serve on the board of the [Scottish Cultural Organization of the Triangle](https://scot.us/) (SCOT) a non-profit dedicated to sharing and promoting knowledge of and appreciation for Scottish culture and history with people in the Triangle and Central NC.
+
+I am passionate about supporting and Girl Scouts and am a proud leader of Troop 3890 in Chapel Hill, NC.
+
+------------------------------------------------------------------------
+
+### Hobbies
+
+In my free time I am a Scottish highland dancer, you can see all about my love of Scottish dance and how I got into it as well as some pictures [here](dance.qmd).
+
+When I'm not dancing and need a break, I am an avid reader. I read fantasy, sci-fi, romance etc. My reading goal for 2023 is to read 40 books and I'm almost half way there. You can check out my [Goodreads](https://www.goodreads.com/jesskhiggins) to follow along.
+
+Additionally, I love to travel especially with my kids! We have been to some amazing places together.
