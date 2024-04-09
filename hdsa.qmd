@@ -1,0 +1,11 @@
+---
+title: "Higgins Data Solutions & Analytics"
+---
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNUweoTCnAhO9hIVtjbtAedM2PoOWSpTsP9jv2968lk7V9eq2-u00lLAWFWWuAqq9bm4uzOsHnj9JQKLveJXYsBGiebw09Sf5UvZQDdS5o4ZwysH4jOo41abm3hyYgIp07r8opRWh4JrK7_1MJmQDEYusVwwO3iIuKEv7aZGAK1mx-fDXi3NKslz_L5F4HzLzSdyZpWhxfSQ6_E9vCfBxcsyb8dc9UFRz7JKYa7NCUg2CWjjzp5GbD6ZvXoW0kLJxDSlwmaIx1Dp2OmGDXrVCtrPMH9Ls8TtYg3BFs_wjryFwtNsGh12-ht4D_DeXyc3dJ5_GNUpSu7h70yiChM-6r_ek1Gq5n5HZp-KFBn_ZYsopjhab6n4UKIZUAaTqq-oubFvWIvn1uP0Vb6l-De_6ShTBymz49qt7ZAFvRPXxxE4Cs9h2HAdCsnstzobSD4SGFGAOJFUuEmEjmhe3LwoSSyHtOjJs4TSaeWxogyDyKhyBHRhJmacurf-nBz5WuWP-1ZpvVZQkucSNHYb6YjccJlAHyxVJpw-8jI9azRN0rlLyaXffmarYOAEvtftmQh7Fd4-PihDzCQ28aPlSV_n8AZUuFGKenSzoVIfTuFubL1zN8hq3PenwEaPVLLMRSgilyKBmikHndUwk9wRSVbuepjin2Sa9E5fSL-LEVbQ4TQIxB9gniYKknfyvbZwE8fdDRKOsK4dlSYP53b2lWNmyCU-b-tNLabTey4ZRlwF9q795Y-IpSYHhsQgQh50mP3voKsBwwqITid199cFqXzVBhOXWrKHazSC6iK5lYelHsWzup36LHL2R7KVsrTM6N4P4WX0nrSad_tE3AZaln0H75swZrAMiyxoTnkc-J8hLCoFKzyyBU4w0imPAneZtOwW2wx0YlW5dTnLtz60GREY_RFRA=w1549-h870-s-no-gm?authuser=0){width="892"}
+
+I offer expert data analysis and programming services tailored to the realm of clinical pharmacology programming, specifically CDISC, popPK, PK/PD etc. dataset creation, as well as the development of insightful tables, listings, and figures. I am committed to providing comprehensive solutions to meet your analytical needs.
+
+Additionally, I also provide consulting expertise in leveraging open source software within the pharmaceutical domain. I am dedicated to empowering clients with the tools and knowledge needed to harness the full potential of open source technologies, fostering innovation and efficiency in drug development.
+
+Whether you require in-depth data analysis, expert consultation, or guidance on open source software utilization, I am here to support you every step of the way. For more information contact me at [HigginsDataSolutions\@gmail.com](mailto:higginsdatasolutions@gmail.com)

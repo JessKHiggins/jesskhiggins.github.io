@@ -10,8 +10,11 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: hdsa.qmd
+        text: Higgins Data Solutions & Analytics
       - href: dance.qmd
         text: Highland Dance
+      
 
 format:
   html:

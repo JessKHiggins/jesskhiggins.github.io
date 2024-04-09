@@ -4,13 +4,12 @@ title: "Highland Dance"
 
 I started highland dancing in 2017 and have been at it ever since. Growing up I was a ballet dancer for 15 years and then took a long break in college and grad school. When my daughter was 4 she asked me to take a dance class with her and the rest was history! Here are a few photos of me in my kilt, aboyne, Irish jig dress, and sailor outfit for doing the Sailor's Hornpipe dance.
 
-::: {layout-nrow=2}
-![Dancing the sword dance at a competition](images/JessHighland.jpeg){alt="Dancing the sword dance at a competition" fig-align="center" width="300"}
+::: {layout-nrow="2"}
+![Dancing the sword dance at a competition](images/JessHighland.jpeg){fig-align="center" width="300"}
 
-![After a competition in my aboyne dress](images/Jessicaaboyne.jpg){alt="after a competition in my aboyne dress" fig-align="center" width="300"}
+![after a competition in my aboyne dress](images/Jessicaaboyne.jpg){fig-align="center" width="300"}
 
-![Dancing the "Irish jig" which is funny because it's a Scottish dance](images/JigDress.png){alt="dancing the \"Irish jig\" which is funny because it's a Scottish dance" fig-align="center" width="200"}
+![dancing the "Irish jig" which is funny because it's a Scottish dance](images/JigDress.png){fig-align="center" width="200"}
 
-![My final leap in the "Sailor's Hornpipe" dance, this costume is not my favorite\...](images/sailorleap.png){alt="My final leap in the \"Sailor's Hornpipe\" dance, this costume is not my favorite..." fig-align="center" width="300"}
-
+![My final leap in the "Sailor's Hornpipe" dance, this costume is not my favorite...](images/sailorleap.png){fig-align="center" width="300"}
 :::
